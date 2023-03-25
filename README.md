@@ -15,3 +15,5 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 Apaixonado por tecnologia, busco sempre aprender coisas novas
+
+![snake gif](https://github.com/LDavi05/LDavi05/blob/output/github-contribution-grid-snake.svg)
