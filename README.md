@@ -5,7 +5,7 @@
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&theme=gruvbox&locale=pt-br)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&layout=compact&theme=gruvbox&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&layout=compact&theme=gruvbox&locale=pt-br&center=true)
 
 ## Linguagens que gosto, uso e procuro aprender mais e mais
 
