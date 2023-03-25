@@ -5,7 +5,7 @@
 
 <div align="center">
    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&theme=gruvbox&locale=pt-br"/>
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&theme=gruvbox&locale=pt-br"/>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&theme=gruvbox&locale=pt-br&layout=compact"/>
 </div>
 
 ## Linguagens que gosto, uso e procuro aprender mais e mais
