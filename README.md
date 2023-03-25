@@ -4,6 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-davi-da-silva-a70667254)
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&theme=gruvbox&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&layout=compact&theme=gruvbox&locale=pt-br)
 
 ## Linguagens que gosto, uso e procuro aprender mais e mais
 
