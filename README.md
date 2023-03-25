@@ -6,8 +6,8 @@
 ## 🌟 Meu Status:
 
 <div align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&theme=gruvbox&locale=pt-br"/>
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&theme=gruvbox&locale=pt-br&layout=compact"/>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&locale=pt-br&title_color=f44236&text_color=f44236&icon_color=fe5722&border_color=fe5722&bg_color=2e3444"/>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&locale=pt-br&layout=compact&title_color=f44236&text_color=f44236&border_color=fe5722&bg_color=2e3444"/>
 </div>
 
 ## 💻 Linguagens que gosto, uso e procuro aprender mais e mais
