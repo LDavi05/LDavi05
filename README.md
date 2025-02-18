@@ -17,13 +17,12 @@
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&locale=pt-br&layout=compact&title_color=f44236&text_color=f44236&border_color=fe5722&bg_color=2e3444"/>
 </div>
 
-## 💻 Tecnologias que gosto, uso e procuro aprender mais e mais
+## 💻 Tecnologias em aprendizado
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="HTML" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
+<img alt="TailwindCSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
+<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
+<img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
+<img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
 </div>
-
-![Snake animation](https://github.com/LDavi05/LDavi05/blob/output/github-contribution-grid-snake.svg)
