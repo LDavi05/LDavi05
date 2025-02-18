@@ -13,7 +13,7 @@
 ## 🌟 Meu Status:
 
 <div align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&locale=pt-br&title_color=666666&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=666666"/>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&locale=pt-br&title_color=666666&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=353130"/>
    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&locale=pt-br&layout=compact&title_color=f44236&text_color=f44236&border_color=fe5722&bg_color=2e3444"/>
 </div>
 
