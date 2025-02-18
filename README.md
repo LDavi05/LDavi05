@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="100px" src="github-banner.gif"/>
+<img width="100%" height="200px" src="github-banner.gif"/>
 </div>
 
 ## 👋 Olá! Eu sou o Lucas Davi!
