@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="200px" src="github-banner.gif"/>
+<img width="100%" height="200px" src="banner.png"/>
 </div>
 
 ## 👋 Olá! Eu sou o Lucas Davi!
@@ -13,8 +13,8 @@
 ## 🌟 Meu Status:
 
 <div align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&locale=pt-br&title_color=999999&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=353130"/>
-   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&locale=pt-br&layout=compact&title_color=999999&text_color=ffffff&border_color=ffffff&bg_color=353130"/>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=LDavi05&show_icons=true&locale=pt-br&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&bg_color=000000"/>
+   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDavi05&locale=pt-br&layout=compact&title_color=999999&text_color=ffffff&border_color=ffffff&bg_color=000000"/>
 </div>
 
 ## 💻 Tecnologias em aprendizado
