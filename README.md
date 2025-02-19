@@ -20,9 +20,9 @@
 ## 💻 Tecnologias em aprendizado
 
 <div align="center">
-<img alt="HTML" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/HTML.svg">
 <img alt="TailwindCSS" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/TailwindCSS.svg">
 <img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Javascript.svg">
 <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/React.svg">
 <img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Java.svg">
+<img alt="Kotlin" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Kotlin.svg">
 </div>
